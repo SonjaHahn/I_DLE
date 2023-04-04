@@ -13,7 +13,7 @@ Dies ist ein [Arbeitsdokument](https://sonjahahn.github.io/I_DLE/)
  - Geeignet für alle Bachelor-Studierenden (keine Vorkenntnisse in
 Informatik oder Statistik!)
 
-## Lernende / weitere beteiligte Personen
+## Lernende
 
  - Kein Vorwissen in Statistik und Programmierung notwendig
  - Evtl. heterogene Gruppe(n)
