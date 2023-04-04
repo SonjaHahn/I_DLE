@@ -8,7 +8,7 @@ Dies ist ein [Arbeitsdokument](https://sonjahahn.github.io/I_DLE/)
 
 ## Zielsetzung
 
-- Grundlegende Informatik und Statistik-Konzepte vermitteln
+ - Grundlegende Informatik und Statistik-Konzepte vermitteln
  - Studierende sollen selbst mit echten Daten arbeiten können
  - Geeignet für alle Bachelor-Studierenden (keine Vorkenntnisse in
 Informatik oder Statistik!)
