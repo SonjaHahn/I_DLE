@@ -1,0 +1,119 @@
+---
+title: "Ideensammlung Data Literacy Education"
+format: html
+bibliography: lit.bib
+---
+
+## Zielsetzung
+
+## Lernziele
+
+## Lernende
+
+ - Kein Vorwissen in Statistik und Programmierung notwendig
+ - Evtl. heterogene Gruppe(n)
+
+### Gruppen
+
+ - Eine Gruppe an der Hochschule
+   - Maschinenbau und Kunststofftechnik (Sensordaten, Werkzeuge zur Auswertung)
+   - Soziale Arbeit (personenbezogene Daten, Evaluation)
+   - Heterogen
+ - Eine Gruppe in EUt+
+
+### Motivation
+
+ - ECTS-Punkte
+ - Relevanz für Beruf (Programmierkenntnisse, Umgang mit Daten)
+ - Interessante Beispiele (als Datensatz oder als Einstieg / Ausblick)
+    - Alltag
+    - "Nachhaltigkeit"
+    - Studium 
+    - Beruf
+    - Pressemitteilungen / Fake news
+ - Interessante Datensätze 
+ - Projektarbeit
+ - "Aha"-Momente
+   - "Was bereits mit deskriptiver Statistik möglich ist"
+   - Visualisierung von Daten (positiv und negativ-Beispiele, evtl. finden lassen)
+   - Progammierung ist nicht so schwierig
+   - Recht komplexe Verfahren lassen sich leicht umsetzen (z.B. Regression Trees)
+   - Zufall vs. Systematik 
+   - Korrelation vs. Kausalität (z.B. in Hinblick auf maschinelles Lernen)
+ - Früh ansprechen (Brückenkurse?, Einführende Lehrveranstaltungen)
+   
+
+## Lehrende
+
+ - FB MN
+ - FBI
+ - Laboringenieur
+ - Tutor*innen
+    - [Jobportal](www.h-da.de/jobportal)
+    - [Trainerpool](www.h-da.de/trainerpool)
+
+## Inhalte
+
+ - Grundkenntnisse in Statistik und Datenverarbeitung
+     - Umgang mit Datensätzen/Tabellen
+     - Deskriptive Statistik/empirische Verteilungen
+     - Visualisierung
+     - Zufall und Wahrscheinlichkeit
+     - Schätzen/Testen
+     - Regression und Klassifikation (Regression Trees?)
+  - Grundlagen in Programmierung und darüber hinaus
+     - Python (RWTH Aachen hat einen Einführungskurs)
+     - Markdown (oder LaTeX)
+ - Vorgehen bei datenbasierten Entscheidungen, z.B. wie in Frameworks geschildert, @Schüller_Busch_Hindinger_2019, als Advance Organizer
+ 
+## Leistungsnachweis und Evaluation
+
+ - Projektarbeit: Abschlusspräsentation
+ - "Standard-Evaluation" der Hochschule
+ - evtl. 5 Minute Paper (zentrale Erkenntnis, unklar, Feedback zur Lehre)
+ - evtl. Aufgaben in Moodle
+
+
+## Lehr-Lern-Formen
+
+  - Vorlesung
+  - Praktika
+  - evtl. Projektarbeit/-woche (TH Köln möchte Pattern veröffentlichen)
+
+## Medien und Materialien
+
+ - Foliensatz
+ - Skript
+ - Shiny-Apps / Dashboards?
+ - Cheat-Sheets, z.B. [Markdown](https://www.markdownguide.org/basic-syntax/), 
+ und Hilfe-Seiten, z.B. [ML in Python](https://scikit-learn.org/stable/)
+ - Übungsaufgaben (evtl. in Moodle)
+ - Datensätze (evtl. [Science Media Center](https://www.sciencemediacenter.de/), 
+ Hochschulinterne Datensätze aus Corona, Studierenden-Statistik)
+ - Für Projekt: Webquest mit Aufgaben und unterstützenden Materialien
+
+
+## Zeit / Raum 
+
+ - 2 unterschiedliche Lehrkonzepte
+   - 1 Gruppe vor Ort (32 Studierende)
+      - 2 Stunden Vorlesung
+      - 2 Stunden Übung/Praktikum (geteilt: 2 Teilgruppen)
+   - 1 Gruppe bei EUt+
+      - evtl. Flipped Classroom (Videos über NRW-Projekte?)
+      - Englisch!
+
+## Organisationale Rahmenbedingungen
+
+ - Verortung an der Hochschule
+   - FB MN
+   - FBI (wer ist Ansprechpartner?)
+   - AG Digitalisierung und Gesellschaft
+
+
+## Übergreifende Ressourcen
+
+ - [UC Berkeley: Data 8](https://data.berkeley.edu/education/courses/data-8)
+
+
+## Herausforderungen
