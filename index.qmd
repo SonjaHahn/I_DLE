@@ -9,12 +9,11 @@ Dies ist ein [Arbeitsdokument](https://sonjahahn.github.io/I_DLE/)
 ## Zielsetzung
 
  - Grundlegende Informatik und Statistik-Konzepte vermitteln
- - Studierende sollen selbst mit echten Daten arbeiten können
+ - Studierende sollen selbst mit echten Daten arbeiten können (Hands-on)
  - Geeignet für alle Bachelor-Studierenden (keine Vorkenntnisse in
 Informatik oder Statistik!)
 
-## Lernende
-
+## Lernende / weitere beteiligte Personen
 
  - Kein Vorwissen in Statistik und Programmierung notwendig
  - Evtl. heterogene Gruppe(n)
@@ -24,7 +23,6 @@ Informatik oder Statistik!)
  - Eine Gruppe an der Hochschule
    - Maschinenbau und Kunststofftechnik (Sensordaten, Werkzeuge zur Auswertung)
    - Soziale Arbeit (personenbezogene Daten, Evaluation)
-   - Heterogen
  - Eine Gruppe in EUt+
 
 ### Motivation
@@ -34,7 +32,7 @@ Informatik oder Statistik!)
  - Interessante Beispiele (als Datensatz oder als Einstieg / Ausblick)
     - Alltag
     - "Nachhaltigkeit"
-    - Studium 
+    - Studium (EUt+ - EUDaten)
     - Beruf
     - Pressemitteilungen / Fake news
  - Interessante Datensätze 
@@ -46,10 +44,15 @@ Informatik oder Statistik!)
    - Recht komplexe Verfahren lassen sich leicht umsetzen (z.B. Regression Trees)
    - Zufall vs. Systematik 
    - Korrelation vs. Kausalität (z.B. in Hinblick auf maschinelles Lernen)
+   - Paradoxien (Simpson)
  - Früh ansprechen (Brückenkurse?, Einführende Lehrveranstaltungen)
+ - Publicity
+    - Verteiler
+    - Homepage
+    - Flyer
    
 
-## Lehrende
+## Lehrende / Weitere beteiligte Personen
 
  - FB MN
  - FBI
@@ -57,10 +60,21 @@ Informatik oder Statistik!)
  - Tutor*innen
     - [Jobportal](www.h-da.de/jobportal)
     - [Trainerpool](www.h-da.de/trainerpool)
+    
+- andere Fachbereiche 
 
 ## Inhalte
 
  - Grundkenntnisse in Statistik und Datenverarbeitung
+    - Computational tools and first steps in programming 
+    - Summarizing and visualizing data
+    - Randomness and probability
+    - Correlation and causation
+    - Curve fitting
+    - Classification
+    - Prediction
+    - Reproducible research
+    
      - Umgang mit Datensätzen/Tabellen
      - Deskriptive Statistik/empirische Verteilungen
      - Visualisierung
