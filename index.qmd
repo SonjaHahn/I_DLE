@@ -4,6 +4,8 @@ format: html
 bibliography: lit.bib
 ---
 
+Dies ist ein [Arbeitsdokument](https://sonjahahn.github.io/I_DLE/)
+
 ## Zielsetzung
 
 - Grundlegende Informatik und Statistik-Konzepte vermitteln
